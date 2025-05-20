@@ -1,6 +1,6 @@
 # MissFortune - Prompt Tuning Service
 
-This repository provides a lightweight **Prompt Tuning** pipeline using [`google/flan-t5-small`](https://huggingface.co/google/flan-t5-small) and the 🤗 [PEFT](https://github.com/huggingface/peft) library. It fine-tunes prompts to generate domain-specific **IT interview questions** from structured `.jsonl` data — useful for HR systems, mock interview apps, or AI tutors.
+This repository provides a lightweight **Prompt Tuning** pipeline. It fine-tunes prompts to generate domain-specific **IT interview questions** from structured `.jsonl` data — useful for HR systems, mock interview apps, or AI tutors.
 
 ---
 
